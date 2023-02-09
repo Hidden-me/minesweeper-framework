@@ -1,0 +1,4 @@
+allprojects {
+    group 'net.hdme'
+    version '0.1'
+}

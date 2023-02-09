@@ -1,4 +1,4 @@
-package net.hdme.minesweeper.framework;
+package net.hdme.minesweeper.core;
 
 /**
  * Information of a board.
